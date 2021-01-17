@@ -7,8 +7,9 @@
 
 ## Install
 
-- Right-click [`Snazzy.itermcolors`](https://github.com/sindresorhus/iterm2-snazzy/raw/master/Snazzy.itermcolors) and choose `Save Link As…`.
-- Double-click the downloaded file.
+* Clone the repository `git clone https://github.com/sindresorhus/iterm2-snazzy.git`
+* Double clic the `Snazzy.itermcolors` file
+* Select `iTerm2 > Preferences > Profiles > Colors (tabs) > Color Presets... (dropdown) > Snazzy`
 
 ## Tip
 
